@@ -58,5 +58,14 @@ footer {
 }
 #imagen-portada{
 	width: 100%;
-	
+}
+
+h3 {
+	text-align: center;
+	font-size: 40px;
+}
+
+p {
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 20px;
 }
